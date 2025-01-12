@@ -1,13 +1,14 @@
 {
   "name": "recipe-manager",
   "private": true,
-  "version": "0.0.1",
+  "version": "0.0.2",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "start:json-server": "json-server --watch db.json --port 5000"
   },
   "dependencies": {
     "@emotion/react": "^11.14.0",

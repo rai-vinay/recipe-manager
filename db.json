@@ -1,0 +1,17 @@
+{
+    "recipes": [
+      {
+        "id": 1,
+        "title": "Spaghetti Bolognese",
+        "ingredients": ["Spaghetti", "Ground Beef", "Tomato Sauce"],
+        "steps": ["Boil water", "Cook spaghetti", "Prepare sauce"]
+      },
+      {
+        "id": 2,
+        "title": "Chicken Curry",
+        "ingredients": ["Chicken", "Curry Powder", "Coconut Milk"],
+        "steps": ["Cook chicken", "Add curry powder", "Simmer with coconut milk"]
+      }
+    ]
+  }
+  
